@@ -1,1 +1,1 @@
-Compare solar energy distribution results.
+Compare solar energy distribution results(.csv).
